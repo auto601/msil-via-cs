@@ -12,6 +12,10 @@
 
 为了方便的查看编译出来的文件中的 MSIL 代码，我们需要选一件称手的反编译工具，这里我用的是 ReSharper 自带的 IL Viewer，这个软件还有一个免费的独立版本，叫做 dotPeek，可以在 Windows 平台运行。如果想要在非 Windows 平台比较方便的反编译 MSIL，可以试试 VS Code 的 [ILSpy .NET Decompiler](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode)。
 
+*2018年5月29日 更新*
+
+极力推荐使用[https://sharplab.io/](https://sharplab.io/)，在线编辑代码，还可以实时生成 IL。
+
 ## 目录 ##
 
 1. [变量类型](./01CIL中的变量类型.md)
